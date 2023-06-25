@@ -1,6 +1,7 @@
 # Layer5 Community Meetings
 
-A repo for hosting meet.layer5.io redirects
+This repository contains a collection of short and crisp redirects for meet.layer5.io, providing an easy way to access various meeting within the Layer5 community.
+
 
 | Layer5 Meetings                   | Meeting links                          | Zoom links                    |
 | --------------------------------- | -------------------------------------- | ----------------------------- |
